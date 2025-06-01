@@ -1,0 +1,26 @@
+Name of troop,Level,Housing Space,Hitpoints,Damage per second,Damage destroyed,Movement speed,Speciality,Hitpoint per Space,Damage per Space,D-damage per space
+Barbarian,8,1,205,34,0,16,,205,34,0
+Archer,6,1,44,22,0,24,,44,22,0
+Giant,6,5,1100,43,0,12,Favorite Target Defecnses,220,8.6,0
+Goblin,8,1,105,52,0,32,Favorite Target Resources,105,52,0
+Wall Breaker,4,2,35,20,16,24,Favorite Target Walls,17.5,10,8
+Ballon,6,5,545,162,162,10,Favorite Target Defecnses,109,32.4,32.4
+Wizard,6,4,180,185,0,16,,45,46.25,0
+Dragon,7,20,3900,310,0,16,,195,15.5,0
+P.E.K.K.A,4,25,4500,360,0,16,,180,14.4,0
+Baby Dragon,1,10,1200,75,0,20,,120,7.5,0
+Miner,2,6,610,88,0,32,,101.6666667,14.66666667,0
+Electro Dragon,4,30,4500,330,570,13,,150,11,19
+Yeti,4,18,3500,270,576,12,9 spawned units,194.4444444,15,32
+Minion,3,2,68,44,0,32,,34,22,0
+Hog Rider,10,5,970,176,0,24,Favorite Target Defecnses,194,35.2,0
+Valkyrie,7,8,1650,185,0,24,,206.25,23.125,0
+Golem,2,30,5400,56,560,12,2 spawned units,180,1.866666667,18.66666667
+Witch,1,12,300,100,150,12,6 spawned units,25,8.333333333,12.5
+Lava Hound,1,30,6100,270,100,30,"8 spawned units
+Favorite Target Air Defecnses",203.3333333,9,3.333333333
+Super Barbarian,8,5,1000,180,0,20,,200,36,0
+Sneaky Goblin,7,3,270,155,0,32,Favorite Target Resources,90,51.66666667,0
+Super Dragon,7,40,6100,381,0,14,,152.5,9.525,0
+Super Hog Rider,10,12,1500,190,0,24,Favorite Target Defecnses,125,15.83333333,0
+Super Valkyrie,7,20,2400,250,0,24,,120,12.5,0
